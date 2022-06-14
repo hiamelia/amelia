@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknote=self.webpackChunknote||[]).push([[8831],{3046:function(e){e.exports=JSON.parse('{"permalink":"/amelia/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
